@@ -34,7 +34,7 @@ gem 'kaminari'
 gem 'api-pagination'
 
 # Use faker and factory_bot_rails used for create dummy data in specified environment
-gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'main'
+# gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'main'
 gem 'factory_bot_rails', '~> 4.0'
 
 # Use active_model_serializers for generate custom json for api
